@@ -7,9 +7,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-
-// ATENÇÃO: (NO NET 6 A STRING ESTANDO NO AppSettingsJson), SERÁ ASSIM ABAIXO:
-//===========================================================================
+//===============================================================================
+// ATENCAO: (NO NET 6 A STRING ESTANDO NO AppSettingsJson), SERï¿½ ASSIM ABAIXO:
+//===============================================================================
 builder.Services.AddDbContext<DataContext>(x =>
 {
    x.UseSqlServer(builder.Configuration.GetConnectionString("ConectDB"));
