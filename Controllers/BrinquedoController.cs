@@ -3,6 +3,7 @@ using Brinquedos_NET6.Models.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace Brinquedos_NET6.Controllers
 {
     public class BrinquedoController : Controller
