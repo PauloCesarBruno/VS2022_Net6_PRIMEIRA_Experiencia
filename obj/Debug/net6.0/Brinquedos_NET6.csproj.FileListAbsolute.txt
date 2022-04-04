@@ -528,3 +528,4 @@ D:\Conteudo do meu C\Paulo Bruno\Visual Studio\ASP.Net\Brinquedos_NET6\Brinquedo
 D:\Conteudo do meu C\Paulo Bruno\Visual Studio\ASP.Net\Brinquedos_NET6\Brinquedos_NET6\obj\Debug\net6.0\Brinquedos_NET6.pdb
 D:\Conteudo do meu C\Paulo Bruno\Visual Studio\ASP.Net\Brinquedos_NET6\Brinquedos_NET6\obj\Debug\net6.0\Brinquedos_NET6.genruntimeconfig.cache
 D:\Conteudo do meu C\Paulo Bruno\Visual Studio\ASP.Net\Brinquedos_NET6\Brinquedos_NET6\obj\Debug\net6.0\ref\Brinquedos_NET6.dll
+D:\Conteudo do meu C\Paulo Bruno\Visual Studio\ASP.Net\Brinquedos_NET6\Brinquedos_NET6\bin\Debug\net6.0\Microsoft.VisualStudio.Web.BrowserLink.dll
