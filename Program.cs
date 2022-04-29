@@ -1,6 +1,5 @@
 using Brinquedos_NET6.Models.Data;
 using Microsoft.EntityFrameworkCore;
-using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 //===============================================================================
-// ATENCAO: (NO NET 6 A STRING ESTANDO NO AppSettingsJson), SER� ASSIM ABAIXO:
+// ATENCAO: (NO NET 6 A STRING ESTANDO NO AppSettingsJson), SERA ASSIM ABAIXO:
 //===============================================================================
 builder.Services.AddDbContext<DataContext>(x =>
 {
