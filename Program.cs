@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 //===============================================================================
-// ATENCAO: (NO NET 6 A STRING ESTANDO NO AppSettingsJson), SERA ASSIM ABAIXO:
+// ATENCAO: (NO NET 6 A STRING ESTANDO NO AppSettingsJson), SERA ASSIM ABAIXO:  =
 //===============================================================================
 builder.Services.AddDbContext<DataContext>(x =>
 {
